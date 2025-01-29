@@ -1,9 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 20;
-    background: #ff0000;
+    background: #f4f4f4;
 }
 
 header {
@@ -30,6 +30,7 @@ nav ul li a {
 
 main {
     padding: 20px;
+    margin: 20px;
 }
 
 footer {
@@ -37,4 +38,26 @@ footer {
     padding: 20px 0;
     background: #333;
     color: #fff;
+}
+
+img {
+	float: left;
+    padding-right: 20px;
+    width: 300px;
+}
+
+h5 {
+	float: left;
+    padding-right: 20px;
+    width: 300px;
+}
+
+p {
+	text-indent: 25px;
+	padding-top: 25px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#serv {
+    padding-top: 25px;
 }
