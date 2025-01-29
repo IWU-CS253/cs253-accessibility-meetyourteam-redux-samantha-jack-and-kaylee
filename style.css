@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
-    padding: 0;
-    background: #f4f4f4;
+    padding: 20;
+    background: #ff0000;
 }
 
 header {
